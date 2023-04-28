@@ -1,0 +1,9 @@
+{
+    "room_type" : "Sea View Room",
+    "room_price" : 19000,
+    "room_no" : 8,
+    "floor_no" : 13,
+    "hotel_id" : 102,
+    "area_of_room": "2000 sq ft",
+    "occupancy_details" : "2 adults, 2 child"
+}

@@ -1,0 +1,8 @@
+{
+    "hotel_name": "Taj Mahal",
+    "hotel_location": "Agra",
+    "hotel_phone": 9876543520,
+    "hotel_email": "tajmahal@tajmahal.com",
+    "hotel_rating": 5,
+    "pet_friendly": true
+}
